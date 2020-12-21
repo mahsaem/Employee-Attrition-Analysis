@@ -12,4 +12,4 @@ In human resources literature, several largely preventable factors have been ide
 - Teams are ineffectively managed
 - Employees face a lack of recognition or limited prospects for growth 
 
-Working conditions are inadequate To explore the relationship between these and other factors and employee attrition, in this notebook I examined an IBM business analytics dataset that contained several variables relevant to staff attrition. By employing a number of statistical methods, we will build a predictive model for employee attrition, which can be used to identify risk factors that help firms mitigate the impact of excessive attrition.
+Working conditions are inadequate to explore the relationship between these and other factors and employee attrition. In this notebook I examined an IBM business analytics dataset that contained several variables relevant to staff attrition. By employing a number of statistical methods, we will build a predictive model for employee attrition, which can be used to identify risk factors that help firms mitigate the impact of excessive attrition.
